@@ -1,0 +1,13 @@
+
+ #outer-box {
+  border : 10px solid purple !important;
+  background-color: blue;
+
+}
+.box {
+   color: yellow;
+  padding: 10px;
+}
+.inner-box {
+  background-color: red;
+}
